@@ -1,2 +1,0 @@
-# litosskkdkasd
-Deployed with Litos
